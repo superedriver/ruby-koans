@@ -188,4 +188,3 @@ class AboutClasses < Neo::Koan
   end
 
 end
-``
